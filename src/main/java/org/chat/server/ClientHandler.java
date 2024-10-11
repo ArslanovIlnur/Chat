@@ -1,4 +1,4 @@
-package org.chat;
+package org.chat.server;
 
 import java.io.IOException;
 import java.io.PrintWriter;
